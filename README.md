@@ -2,8 +2,8 @@
 
 ### `npx json-server --watch data/db.json --port 8000 --delay 1000`
 
-This will activate the json file as a fake json database
-Open [http://localhost:8000](http://localhost:8000) to view it in your browser.
+This will activate the json file as a fake json database.\
+Open [http://localhost:8000/blogs](http://localhost:8000/blogs) to view it in your browser.
 
 ### `npm start`
 
